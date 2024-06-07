@@ -2,9 +2,7 @@
 <p align="left">A Junior frontend developer</p>
 <br/>
 
-- 🔭 I’m currently working on **Disney+ Clone**
-
-- 🌱 I’m currently learning **Redux and Firebase**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **Marinashohda@gmail.com**
 

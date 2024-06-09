@@ -1,6 +1,5 @@
 <h3 align="left">Hey There 👋 I'm Marina Shohda</h3>
 <p align="left">A Junior frontend developer</p>
-<br/>
 
 - 🌱 I’m currently learning **ReactJS**
 
